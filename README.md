@@ -6,7 +6,7 @@ A simple collection of bash scripts to handle cyberoam login and logout. Uses cu
 Instructions
 ------------
 
-* Make CyberroamConfig file in folder in which scipt resides.
+* Make CyberoamConfig file in folder in which scipt resides.
 * Put in you username and password.
 ```
 #!/bin/bash
