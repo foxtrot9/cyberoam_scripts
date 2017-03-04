@@ -8,7 +8,8 @@ Instructions
 
 * Make CyberroamConfig file in folder in which scipt resides.
 * Put in you username and password.
-```#!/bin/bash
+```
+#!/bin/bash
                                                                                        
 USER="201401448"
 PASSWORD="xxxxxxxxxxxx"                                                               
