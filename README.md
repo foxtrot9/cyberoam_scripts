@@ -8,6 +8,10 @@ Instructions
 
 * Make CyberoamConfig file in folder in which scipt resides.
 * Put in you username and password.
+* Make it readonly for better protection.
+```
+chmod +400 CyberoamConfig
+```
 ```
 #!/bin/bash
                                                                                        
